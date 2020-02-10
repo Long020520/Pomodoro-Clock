@@ -22,3 +22,11 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+* {
+  outline: none;
+  border: none;
+  background-color: rgb(215,84 ,83 );
+  color: white;
+  font-style: italic;
+}
